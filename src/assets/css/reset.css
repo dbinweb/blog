@@ -1,0 +1,55 @@
+html {
+    font-family: 'Microsoft YaHei', Serif;
+    font-size: 14px;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+blockquote,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+pre,
+fieldset,
+button,
+input,
+textarea,
+table,
+th,
+td {
+    padding: 0;
+    margin: 0;
+}
+
+ul,ol,li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+img{
+    border: 0;
+}
+
+
+
+
+
